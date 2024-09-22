@@ -1,8 +1,8 @@
-___
 ![](https://komarev.com/ghpvc/?username=emanuele-quaglio&label=PROFILE+VIEWS)
 
   [//]: # (example of mostly-platform-independent comment)
-  
+
+___
 <br>
 
 <div align="center">
