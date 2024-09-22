@@ -1,4 +1,3 @@
-# Welcome to my GitHub Profile! 👋
 ![](https://komarev.com/ghpvc/?username=emanuele-quaglio&label=PROFILE+VIEWS)
 
   [//]: # (example of mostly-platform-independent comment)
