@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter)
+
 ![](https://komarev.com/ghpvc/?username=emanuele-quaglio&label=PROFILE+VIEWS)
 
   [//]: # (example of mostly-platform-independent comment)
