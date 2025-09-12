@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-quaglio&hide=jupyter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-quaglio&hide=Jupyter)
 
 ![](https://komarev.com/ghpvc/?username=emanuele-quaglio&label=PROFILE+VIEWS)
 
