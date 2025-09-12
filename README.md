@@ -24,6 +24,7 @@ ___
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=emanuele-quaglio&theme=dark-smoky&hide_border=true" />
+  
   [//]: # 
   <img src="https://github-readme-stats.vercel.app/api?username=emanuele-quaglio&show_icons=true&theme=dark&hide=Jupyter%20Notebook" alt="emanuele-quaglio's GitHub Stats" />
   
