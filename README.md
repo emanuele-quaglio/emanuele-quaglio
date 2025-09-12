@@ -29,9 +29,7 @@ ___
   
   <img src="https://github-readme-stats.vercel.app/api?username=emanuele-quaglio&show_icons=true&theme=dark" alt="emanuele-quaglio's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-quaglio&hide=Jupyter%20Notebook,javascript,css&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true)" alt="emanuele-quaglio's GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-quaglio&layout=compact&theme=radical&hide=Jupyter%20Notebook" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-quaglio&count_private=true&layout=compact&theme=radical&hide=Jupyter%20Notebook" alt="Top Langs" />
 </div>
 
 
