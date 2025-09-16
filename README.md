@@ -23,7 +23,7 @@ ___
 <br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=emanuele-quaglio&theme=dark-smoky&hide_border=true" />
+ 
 
 
   
