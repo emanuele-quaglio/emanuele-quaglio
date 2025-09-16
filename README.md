@@ -24,6 +24,7 @@ ___
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=emanuele-quaglio" alt="GitHub Streak" /></a>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuele-quaglio)](https://git.io/streak-stats)
 
 
   
